@@ -7,7 +7,6 @@
 - 前端框架：Vue 3.x
 - 路由工具：Vue Router 4.x
 - 状态管理：Vuex 4.x
-- PC 端 UI 框架：Element Plus
 - H5 端 UI 框架：vant
 - CSS 预编译：Stylus / Sass / Less
 - HTTP 工具：Axios
